@@ -13,7 +13,7 @@ This is a simple voice assistant application that uses OpenAI GPT-3.5 Turbo for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/pkostanski/openai_voice_assistant.git
 ```
 
 2. Navigate to the project directory:
